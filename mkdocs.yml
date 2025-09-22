@@ -1,0 +1,19 @@
+site_name: Hoofddorp roleplay
+theme:
+  logo: assests/HDRPlogo.png
+  name: material
+  features:
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.instant.preview
+    - navigation.tracking
+    - navigation.tabs
+
+nav:
+  - Home: index.md
+  - Informatie: Informatie.md
+  - Algemene Plaatselijke Verordening:  Algemene Plaatselijke Verordening.md
+  - Wetboek HDRP: Wetboek HDRP.md
+  - Onderwereld Regels: Onderwereld Regels.md
+  - Hulpdiensten Regels: Hulpdiensten Regels.md
+  - Main discord: Main discord.md
