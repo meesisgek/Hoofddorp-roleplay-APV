@@ -1,33 +1,55 @@
-#!/bin/bash
+#!/usr/bin/env python3
+"""
+Python script om de Amersfoort RolePlay homepage na te maken met MkDocs
+"""
 
-# Eenvoudig script om de Amersfoort RolePlay homepage na te maken met MkDocs
+import os
+import subprocess
+import sys
 
-echo "🏗️  Amersfoort RolePlay MkDocs setup..."
+def install_mkdocs():
+    """Installeer MkDocs en Material theme"""
+    print("📦 Installeren van MkDocs...")
+    try:
+        subprocess.check_call([sys.executable, "-m", "pip", "install", "mkdocs", "mkdocs-material"])
+        print("✅ MkDocs geïnstalleerd!")
+    except subprocess.CalledProcessError:
+        print("❌ Fout bij installeren van MkDocs")
+        return False
+    return True
 
-# Maak project directory
-PROJECT_NAME="amersfoort-roleplay"
-mkdir -p "$PROJECT_NAME"
-cd "$PROJECT_NAME"
+def create_project():
+    """Maak project directory en bestanden"""
+    project_name = "amersfoort-roleplay"
+    
+    # Maak directory
+    os.makedirs(project_name, exist_ok=True)
+    os.chdir(project_name)
+    
+    # Maak docs directory
+    os.makedirs("docs", exist_ok=True)
+    
+    print(f"📁 Project directory '{project_name}' aangemaakt")
+    return True
 
-# Installeer MkDocs
-pip3 install mkdocs mkdocs-material
-
-# Initialiseer MkDocs
-mkdocs new . --force
-
-# Maak eenvoudige mkdocs.yml
-cat > mkdocs.yml << 'EOF'
-site_name: Amersfoort RolePlay
+def create_mkdocs_config():
+    """Creëer mkdocs.yml configuratie"""
+    config_content = """site_name: Amersfoort RolePlay
 theme:
   name: material
   language: nl
   palette:
     primary: indigo
-EOF
+"""
+    
+    with open("mkdocs.yml", "w", encoding="utf-8") as f:
+        f.write(config_content)
+    
+    print("⚙️ mkdocs.yml aangemaakt")
 
-# Creëer de exacte pagina content
-cat > docs/index.md << 'EOF'
-# Wet- en Regelgeving Amersfoort RolePlay
+def create_homepage():
+    """Creëer de homepage met exacte content"""
+    homepage_content = """# Wet- en Regelgeving Amersfoort RolePlay
 
 Welkom op de pagina voor de Wet- en Regelgeving van Amersfoort! Zorg ervoor, dat je voor je deelneemt aan Amersfoort, kennis hebt genomen van deze wetten.
 
@@ -52,8 +74,35 @@ Amersfoort heeft verschillende discord servers die goed gekeurd zijn door de Hog
 *De Hoofd Pagina is opgesteld uit naam van de Hoge Raad, bedoeld voor het eiland, de gemeente en de stad "Amersfoort", opgetekend door Portak te Amersfoort.*
 
 *3 maanden geleden*
-EOF
+"""
+    
+    with open("docs/index.md", "w", encoding="utf-8") as f:
+        f.write(homepage_content)
+    
+    print("📄 Homepage (index.md) aangemaakt")
 
-echo "✅ Setup voltooid!"
-echo "📁 Ga naar de $PROJECT_NAME directory"
-echo "🚀 Start de server met: mkdocs serve"
+def main():
+    """Hoofdfunctie"""
+    print("🏗️  Amersfoort RolePlay MkDocs setup...")
+    
+    # Installeer MkDocs
+    if not install_mkdocs():
+        return
+    
+    # Maak project
+    if not create_project():
+        return
+    
+    # Creëer configuratie
+    create_mkdocs_config()
+    
+    # Creëer homepage
+    create_homepage()
+    
+    print("\n✅ Setup voltooid!")
+    print("📁 Ga naar de amersfoort-roleplay directory")
+    print("🚀 Start de server met: mkdocs serve")
+    print("🌐 Bekijk de site op: http://127.0.0.1:8000")
+
+if __name__ == "__main__":
+    main()
