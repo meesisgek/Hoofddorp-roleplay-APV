@@ -1,33 +1,14 @@
 # Informatie - Regels
 
-## Inhoudsopgave
-
-- [Artikel 1.INF - Bezwaar Straf](#artikel-1inf---bezwaar-straf)
-- [Artikel 2.INF - Straf Verandering](#artikel-2inf---straf-verandering)
-- [Artikel 3.INF - Omzeilen Straf](#artikel-3inf---omzeilen-straf)
-- [Artikel 4.INF - Bans op GTA licentie en IP verbonden](#artikel-4inf---bans-op-gta-licentie-en-ip-verbonden)
-- [Artikel 5.INF - Herhaling](#artikel-5inf---herhaling)
-- [Artikel 6.INF - Tonen bewijsmateriaal](#artikel-6inf---tonen-bewijsmateriaal)
-- [Artikel 7.INF - Burger Rapporteren](#artikel-7inf---burger-rapporteren)
-- [Artikel 8.INF - Liegen Tegen Staff](#artikel-8inf---liegen-tegen-staff)
-- [Artikel 9.INF - Informatie achterhouden voor staff](#artikel-9inf---informatie-achterhouden-voor-staff)
-- [Artikel 10.INF - Voordoen als staff](#artikel-10inf---voordoen-als-staff)
-- [Artikel 11.INF - Verkopen/kopen van speciale voertuigen](#artikel-11inf---verkopenkopen-van-speciale-voertuigen)
-- [Artikel 12.INF - Regels Omtrent Wapenlijst](#artikel-12inf---regels-omtrent-wapenlijst)
-- [Artikel 13.INF - Donaties](#artikel-13inf---donaties)
-- [Artikel 14.INF - Staffzaak](#artikel-14inf---staffzaak)
-
----
-
-## Artikel 1.INF - Bezwaar Straf
+**Artikel 1.INF - Bezwaar Straf**
 
 1. Een burger heeft het recht om in beroep te gaan tegen de opgelegde straf. Dit dient enkel binnen een tijdsbestek van 1 week te gebeuren. Na dit tijdsbestek valt er niet meer in beroep te gaan tegen uw opgelegde straf.
 
-## Artikel 2.INF - Straf Verandering
+**Artikel 2.INF - Straf Verandering**
 
 1. Indien er duidelijk bewijs gevonden is die de opgelegde straf kan veranderen, staat het stafflid in zijn recht om de straf te veranderen. Dit is afhankelijk van het gevonden bewijs.
 
-## Artikel 3.INF - Omzeilen Straf
+**Artikel 3.INF - Omzeilen Straf**
 
 1. Het omzeilen van een opgelegde straf is verboden. Indien dit geconstateerd wordt volgt een straf opleggen van de 9e categorie. Proberen "loopholes" te vinden in de regels en/of de regels te misbruiken/buigen voor je eigen voordeel is niet toegestaan en zal worden bestraft volgens categorie 7.
 
@@ -69,7 +50,7 @@
 
 4. Het verkopen/kopen van **reward voertuigen** is NIET toegestaan. dit kan opleveren tot het verwijderen van jou reward voertuig.
 
-5. Het kopen mag met uitzondering alleen bij de luxury Car / donatie Dealer van Amersfoort.
+5. Het kopen mag met uitzondering alleen bij de luxury Car / donatie Dealer van Hoofddorp.
 
 6. Als een auto niet in de normale cardealer staat gaat het om een speciaal voertuig en mag deze niet verkocht worden.
 
@@ -99,10 +80,10 @@
 
 ---
 
-*'Informatie - Regels' is opgesteld uit naam van de Beheerder(s), bedoeld voor het eiland, de gemeente en de stad "Amersfoort", opgekend door Portak te Amersfoort.*
+*'Informatie - Regels' is opgesteld uit naam van de Beheerder(s), bedoeld voor het eiland, de gemeente en de stad "Hoofddorp", opgekend door Portak te Hoofddorp.*
 
-**3 maanden geleden**
+
 
 ---
 
-**Copyright © 2024 AmersfoortRolePlay**
+**Copyright © 2025 HoofddorpRoleplay**
