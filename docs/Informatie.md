@@ -12,17 +12,13 @@
 
 1. Het omzeilen van een opgelegde straf is verboden. Indien dit geconstateerd wordt volgt een straf opleggen van de 9e categorie. Proberen "loopholes" te vinden in de regels en/of de regels te misbruiken/buigen voor je eigen voordeel is niet toegestaan en zal worden bestraft volgens categorie 7.
 
-## Artikel 4.INF - Bans op GTA licentie en IP verbonden
-
-1. Bans worden uitgedeeld op GTA License en IP Adres en geldt dus voor een ieder die hier gebruik van maakt. Dit geldt ook voor familieleden of vrienden in hetzelfde huis. Hier dien je samen verantwoordelijk voor te zijn, mocht iemand een straf krijgen.
-
 ## Artikel 5.INF - Herhaling
 
 1. Wanneer je dezelfde categorie meerdere keren heb gehad kan je volgende straf verhoogd worden met 1 categorie.
 
 ## Artikel 6.INF - Tonen bewijsmateriaal
 
-1. Een stafflid is niet verplicht om verzameld bewijsmateriaal te tonen aan een speler, wanneer hij/zij een straf heeft gekregen na het overtreden van een/of meerdere regels.
+1. Een stafflid is verplicht om verzameld bewijsmateriaal te tonen aan een speler, wanneer hij/zij hierom vraagt.
 
 ## Artikel 7.INF - Burger Rapporteren
 
@@ -40,50 +36,16 @@
 
 1. Het voordoen en/of uitspraken gebruiken om als stafflid over te komen is niet toegestaan en zal bestraft worden met categorie 6.
 
-## Artikel 11.INF - Verkopen/kopen van speciale voertuigen
-
-1. Het verkopen/kopen van **Luxury voertuigen** is NIET toegestaan. dit kan opleveren tot het verwijderen van jou luxury voertuig.
-
-2. Het verkopen/kopen van **donatie voertuigen** is NIET toegestaan. dit kan opleveren tot het verwijderen van jou luxury voertuig.
-
-3. Het verkopen/kopen van **give-away voertuigen** is NIET toegestaan. dit kan opleveren tot het verwijderen van jou luxury voertuig.
-
-4. Het verkopen/kopen van **reward voertuigen** is NIET toegestaan. dit kan opleveren tot het verwijderen van jou reward voertuig.
-
-5. Het kopen mag met uitzondering alleen bij de luxury Car / donatie Dealer van Hoofddorp.
-
-6. Als een auto niet in de normale cardealer staat gaat het om een speciaal voertuig en mag deze niet verkocht worden.
-
-## Artikel 12.INF - Regels Omtrent Wapenlijst
-
-1. Hij/zij die een wapen koopt/krijgt/rpt is ten alle tijden verplicht een wapenlijst ticket te maken met Clip. [Dit is Verplicht!!].
-
-2. Bij overtreding van dit artikel volgt categorie 6
-
-## Artikel 13.INF - Donaties
-
-1. Donaties staan vast, als er éénmaal gedoneerd is, krijg je het geld **NIET** meer terug.
-
-2. In het geval dat er een chargeback wordt gemaakt zonder dat er om support wordt gevraagd zal dit leiden tot een permanente ban.
-
-3. In het geval dat de gene frauduleuze betalingen probeert te maken zal deze ook een permanente ban ontvangen.
-
-4. In het geval jij toch veder gaat met doneren, ga jij automatisch akkoord met de regels omtrent het doneren of aankopen doen in de store.
-
 ## Artikel 14.INF - Staffzaak
 
 1. Het is niet toegestaan als je nog in een roleplay scenario zit een staffzaak te starten.
 
-2. Mocht het scenario klaar zijn wacht je 10 minuten dan mag je een staffzaak starten.
-
-   - **Vraag wel eerst toestemming van je ouders als je jonger bent dan 18 jaar om eventueel een donatie te doen.**
-
 ---
 
-*'Informatie - Regels' is opgesteld uit naam van de Beheerder(s), bedoeld voor het eiland, de gemeente en de stad "Hoofddorp", opgekend door Portak te Hoofddorp.*
+*'Informatie - Regels' is opgesteld uit naam van de Beheerder(s), bedoeld voor de gemeente en het dorp "Hoofddorp", opgekend door Portak te Hoofddorp.*
 
 
 
 ---
-@
+
 **Copyright © 2025 HoofddorpRoleplay**
