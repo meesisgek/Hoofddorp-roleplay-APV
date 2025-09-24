@@ -1,7 +1,7 @@
 site_name: Hoofddorp roleplay
 theme:
   logo: assests/HDRPlogo.png
-  favicon: assests/HDRPlogo2.png
+  favicon: assests/HDRPlogo3.png
   name: material
   features:
     - navigation.instant
